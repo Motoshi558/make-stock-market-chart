@@ -1,1 +1,1 @@
-# randomQuizGenerator
+# 株価データ分析
